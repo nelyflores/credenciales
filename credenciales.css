@@ -1,0 +1,55 @@
+body{
+  font-family: 'Rubik', sans-serif;
+}
+div.jumbotron{
+background-color: black;
+color: white;
+}
+.logoJumbotron{
+  margin-left: 312px;
+}
+span{
+  color: #37ab30;
+}
+.row{
+  height: 200px;
+  margin: 10px;
+}
+.monitoreo_contenido{
+      margin-left: 234px;
+}
+.monitoreo{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.como{
+  background-color: black;
+  color: white;
+
+}
+.como_contenido{
+  margin-top: 73px;
+    font-size: 40px;
+}
+ul{
+  list-style: none;
+}
+.footer{
+  background-color: black;
+  margin-bottom: 0;
+}
+.footer_contenido{
+  width: 100px;
+
+}
+.paginaweb{
+  color: white;
+}
+@media (max-width: 600px){
+  .subtitulo{
+    font-size: 15px;
+  }
+  .logoJumbotron{
+    margin-left: 12px;
+  }
+}
